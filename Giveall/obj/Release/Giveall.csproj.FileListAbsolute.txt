@@ -1,0 +1,6 @@
+C:\Tshock\Giveall\Giveall\bin\Release\Giveall.dll
+C:\Tshock\Giveall\Giveall\bin\Release\Giveall.pdb
+C:\Tshock\Giveall\Giveall\bin\Release\TerrariaServer.exe
+C:\Tshock\Giveall\Giveall\bin\Release\TShockAPI.dll
+C:\Tshock\Giveall\Giveall\obj\Release\Giveall.dll
+C:\Tshock\Giveall\Giveall\obj\Release\Giveall.pdb
