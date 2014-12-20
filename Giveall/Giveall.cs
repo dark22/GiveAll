@@ -98,7 +98,7 @@ namespace Giveall
             {
                 item = matchedItems[0];
             }
-            if (item.type < 1 && item.type >= Main.maxItemTypes)
+            if (item.type < 1 || item.type >= Main.maxItemTypes)
             {
                 args.Player.SendErrorMessage("The item type {0} is invalid.", itemNameOrId);
                 return;
